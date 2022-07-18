@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39864598301",
+    "project_id": "uasdosen-3d65d",
+    "storage_bucket": "uasdosen-3d65d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39864598301:android:bea5b77af910145917abf4",
+        "android_client_info": {
+          "package_name": "com.example.app_data_dosen_20190801086"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39864598301-lsdbpsqn511ufk3ujri18u44ps9c9l2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAytQeLOHx9k92n_FIvbv0_090KySrHYmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39864598301-lsdbpsqn511ufk3ujri18u44ps9c9l2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
